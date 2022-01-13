@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Andrii and I'm a Full-Stack developer. I'm from Ukraine.
+### I am Andrii and I'm a Full-Stack developer from Ukraine.
 
 ![](https://img.shields.io/badge/JavaSript-Developer-informational?style=flat&logo=JavaScript&logoColor=EBD94D&color=EBD94D)
 ## 
