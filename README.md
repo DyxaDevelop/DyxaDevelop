@@ -21,10 +21,11 @@
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=488FDF&color=488FDF)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=D95731&color=D95731)
-
+<!--
 ## 
 ### - 🔭 I’m currently looking for a job
 ### - 📫 How to reach me: andrii.yakovyna@gmail.com
+-->
 
 <!--
 **DyxaDevelop/DyxaDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
